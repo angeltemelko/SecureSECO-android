@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SecureSECO-Android</string>
+    <string name="service_name">App Trust Score Notifier</string>
+</resources>
